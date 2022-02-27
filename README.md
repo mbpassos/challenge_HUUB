@@ -8,7 +8,7 @@ The ultimate goal of the project was to also implement Vue Components as fronten
 
 ## Making the project run
 
-two command must be used in the terminal for the project to start running:
+Commands must be used in the terminal for the project to start running:
 1. create .env file 
 2. php artisan key:generate
 3. php artisan serve
@@ -24,7 +24,7 @@ I believe in constant improvement. The Next step of the project would be to buil
 <img src="https://i.ibb.co/FHnbWrS/wireframe.png">
 <img src="https://i.ibb.co/j8DK7Yv/912588ddc488e35fc2380ed3953ee9d2.png">
 
-I also wanted to improve the error messages that would show up when the token expires from the session. I would also focus more on the layout, imporve the homepage specially. 
+I also wanted to improve the error messages that would show up when the token expires from the session. I would also focus more on the layout, improve the homepage specially. 
 
 ## Challenges
 
