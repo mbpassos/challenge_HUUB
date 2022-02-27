@@ -21,7 +21,7 @@ After reading the brief carefully I decided that the  project would need a contr
 ## Next Steps for the project
 
 I believe in constant improvement. The Next step of the project would be to build Vue Components using laravel functions. I started by skecthing a wireframe to define components hierarchy. I came up with the following solution:
-(skecth)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNaBqESNvTvB5wnzZcM6vvA%2FHUUB-challenge%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 I also wanted to improve the error messages that would show up when the token expires from the session. I would also focus more on the layout, imporve the homepage specially. 
 
