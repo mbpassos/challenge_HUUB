@@ -22,6 +22,7 @@ After reading the brief carefully I decided that the  project would need a contr
 
 I believe in constant improvement. The Next step of the project would be to build Vue Components using laravel functions. I started by skecthing a wireframe to define components hierarchy. I came up with the following solution:
 <img src="https://i.ibb.co/FHnbWrS/wireframe.png">
+<img src="https://i.ibb.co/j8DK7Yv/912588ddc488e35fc2380ed3953ee9d2.png">
 
 I also wanted to improve the error messages that would show up when the token expires from the session. I would also focus more on the layout, imporve the homepage specially. 
 
