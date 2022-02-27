@@ -9,8 +9,10 @@ The ultimate goal of the project was to also implement Vue Components as fronten
 ## Making the project run
 
 two command must be used in the terminal for the project to start running:
-1. php artisan serve
-2. npm run watch
+1. create .env file 
+2. php artisan key:generate
+3. php artisan serve
+4. npm run watch
 
 ## Approach
 
