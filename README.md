@@ -23,6 +23,7 @@ After reading the brief carefully I decided that the  project would need a contr
 I believe in constant improvement. I decided to build the project in Laravel, but another possibility for this challenge was to use Vue JS to build the application. I started by skecthing a wireframe to define components hierarchy. I came up with the following solution:
 <img src="https://i.ibb.co/FHnbWrS/wireframe.png">
 <img src="https://i.ibb.co/j8DK7Yv/912588ddc488e35fc2380ed3953ee9d2.png">
+
 The next step would by authenticating and storing the token in the browser's variable (local Storage). Using Quazar(https://quasar.dev/introduction-to-quasar) a Vue JS framework would be a great choice, because there is already scaffolding and components created, which would be practical because I could use some code from my Laravel application.
 
 Regarding the Laravel project, I also want to improve the error messages that would show up when the token expires from the session. I would also focus more on the layout and improve the homepage specially. 
