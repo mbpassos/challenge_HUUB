@@ -12,22 +12,20 @@ two command must be used in the terminal for the project to start running:
 1. php artisan serve
 2. npm run watch
 
-## Laravel Sponsors
-
-The most challenging part of the project was to build authentication manually, since Laravel´s built in tools always rely od database set up to work. 
-
-### Approach
+## Approach
 
 After reading the brief carefully I decided that the  project would need a controller for authentication, a controller for products and a product service that would allow the calls to the api to create instaces of a Product Model. I then divided the challenge into small parts, built the routes and started working of the functions in the controllers one by one, always trying to avoid code repetition (DRY, always)
 
-## Next Approach
+## Next Steps for the project
 
-The Next step of the project would be to build Vue Components using laravel functions. I started by skecthing a wireframe to define components hierarchy. I came up with the following solution:
+I believe in constant improvement. The Next step of the project would be to build Vue Components using laravel functions. I started by skecthing a wireframe to define components hierarchy. I came up with the following solution:
 (skecth)
 
+I also wanted to improve the error messages that would show up when the token expires from the session. I would also focus more on the layout, imporve the homepage specially. 
 
+## Challenges
 
-
+The most challenging part of the project was to build authentication manually, since Laravel´s built in tools always rely od database set up to work, same as pagination.
 
 ## Thank you
 
